@@ -9,9 +9,9 @@ command = "hugo --gc --minify"
 
 [params]
 [[menu.main]]
-name = "Introduction"
+name = "Intro"
 weight = 1
-url = "/introduction/"
+url = "/intro/"
 
 [context.production.environment]
 HUGO_VERSION = "0.74.3"
