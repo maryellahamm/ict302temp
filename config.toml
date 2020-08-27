@@ -1,4 +1,4 @@
-baseURL = "https://xenodochial-einstein-7a9b14.netlify.app/"
+baseURL = "https://xenodochial-einstein-7a9b14.netlify.app/intro/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
