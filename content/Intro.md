@@ -3,6 +3,8 @@ title: "Intro"
 date: 2020-08-27T00:00:00-04:00
 draft: false
 ---
+
+<h2>Welcome to my Page!</h2>
 ![IntroPic](Intropic.jpeg)
 
 <p>Hi, my name is Mary Ella. I am from a small town in southeastern Kentucky. I am now a junior here at UK. My parents both went to UK themselves for engineering, so I would 
