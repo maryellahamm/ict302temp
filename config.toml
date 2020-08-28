@@ -7,12 +7,6 @@ theme = "ananke"
 publish = "public"
 command = "hugo --gc --minify"
 
-[params]
-[[menu.main]]
-name = "Intro"
-weight = 1
-url = "/Intro/"
-
 [context.production.environment]
 HUGO_VERSION = "0.74.3"
 HUGO_ENV = "production"
@@ -39,4 +33,10 @@ HUGO_VERSION = "0.74.3"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[params]
+[[menu.main]]
+name = "Introduction"
+weight = 1
+url = "/Intro/"
 
