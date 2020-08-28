@@ -3,7 +3,7 @@ title: "Intro"
 date: 2020-08-27T00:00:00-04:00
 draft: false
 ---
-# Welcome to my page! #
+# Welcome to my page!
 
 <p>Hi, my name is Mary Ella. I am from a small town in southeastern Kentucky. I am now a junior here at UK. My parents both went to UK themselves for engineering, so I would 
 like to say that influenced my decision to be where I am today.
