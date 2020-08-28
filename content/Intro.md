@@ -5,7 +5,7 @@ draft: false
 ---
 
 <h2>Welcome to my Page!</h2>
-![IntroPic](introPic.jpeg)
+![IntroPic](content/introPic.jpeg)
 
 <p>Hi, my name is Mary Ella. I am from a small town in southeastern Kentucky. I am now a junior here at UK. My parents both went to UK themselves for engineering, so I would 
 like to say that influenced my decision to be where I am today.
