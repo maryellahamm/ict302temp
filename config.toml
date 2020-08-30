@@ -38,5 +38,5 @@ HUGO_ENABLEGITINFO = "true"
 [[menu.main]]
 name = "Introduction"
 weight = 1
-url = "/Intro/"
+url = "/introduction/"
 
