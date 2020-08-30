@@ -11,4 +11,4 @@ major so I am really excited to begin. Over quarantine, I decided computer scien
 Something I am looking forward to this semester is exposure to HTML and learning frontend strategies. My personality is very much a people person; I can talk to just
 about anybody. I would be more suited for a role such as this because I enjoy collaboration, teamwork and learning from others. On campus, I am a group fitness instructor; my favorite class that I teach is indoor cycling. During the summer, my family and I enjoy going to the lake and 
 I would like to brag that I am an avid wakesurfer.
-![link to photo](https://github.com/maryellahamm/ict302temp/blob/master/content/introPic.jpeg)
+![intro](https://github.com/maryellahamm/ict302temp/blob/master/content/introPic.jpeg)
