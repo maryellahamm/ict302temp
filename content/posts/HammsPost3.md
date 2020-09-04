@@ -15,4 +15,4 @@ draft: false
 
 
 ![thumbs up](https://github.com/maryellahamm/ict302temp/blob/master/content/thumbs%20up.jpg)
-<img align ="left" width="100" height="100" src="https://www.pinterest.com/pin/737112663981086659/">
+<img align ="left" width="100" height="100" src="https://github.com/maryellahamm/ict302temp/blob/master/content/thumbs%20up.jpg">
