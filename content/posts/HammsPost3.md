@@ -13,4 +13,4 @@ draft: false
 #### I can identify and employ technologies related to content management.
 #### I can find and use resources for self-directed learning.
 
-<img align ="left" width="100" height="100" src="https://github.com/maryellahamm/ict302temp/blob/master/content/thumbs%20up.jpg">
+![thumbs up](https://github.com/maryellahamm/ict302temp/blob/master/content/thumbs%20up.jpg)
