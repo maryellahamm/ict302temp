@@ -17,4 +17,5 @@ draft: false
 
 ![Thumbs up](https://xenodochial-einstein-7a9b14.netlify.app/content/thumbsUp.jpg)
 
+
 **Sources:** https://www.zesty.io/mindshare/marketing-technology/what-is-a-content-management-system-cms-the-complete-guide/
