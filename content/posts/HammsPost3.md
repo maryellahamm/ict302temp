@@ -15,6 +15,6 @@ draft: false
 #### I can find and use resources for self-directed learning.
 - I have really enjoyed getting to learn Markdown elements and I have been researching a few more sites just to get more examples. The notations seem to be pretty tedious so I like to see examples on other sites. In the last few days, I have found the site Kinsta where they share a free Glossary for those who are working in WordPress. They have a few beginner glossary archives that explain GitHub, WordPress and CMS in general. I was wondering if you had any more Markdown resources that you are more partial to? I was trying to look for some YouTubers who use basic MarkDown tags and show tutorials.
 
-<img src="https://xenodochial-einstein-7a9b14.netlify.app/content/thumbsUp.jpg" alt="thumbs up" width="200" height="400">
+![Thumbs up](https://xenodochial-einstein-7a9b14.netlify.app/content/thumbsUp.jpg)
 
 **Sources:** https://www.zesty.io/mindshare/marketing-technology/what-is-a-content-management-system-cms-the-complete-guide/
