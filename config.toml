@@ -40,3 +40,17 @@ name = "Introduction"
 weight = 1
 url = "/introduction/"
 
+[[menu.main]]
+name = "Resources"
+weight = 1
+url = "/Dresources/"
+
+[[menu.main]]
+name = "Walkthrough"
+weight = 1
+url = "/Dwalkthrough/"
+
+[[menu.main]]
+name = "Definitions"
+weight = 1
+url = "/Ddefinitions/"
