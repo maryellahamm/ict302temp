@@ -42,15 +42,15 @@ url = "/introduction/"
 
 [[menu.main]]
 name = "Resources"
-weight = 1
+weight = 2
 url = "/Dresources/"
 
 [[menu.main]]
 name = "Walkthrough"
-weight = 1
+weight = 3
 url = "/Dwalkthrough/"
 
 [[menu.main]]
 name = "Definitions"
-weight = 1
+weight = 4
 url = "/Ddefinitions/"
