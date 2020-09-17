@@ -1,7 +1,7 @@
 baseURL = "https://xenodochial-einstein-7a9b14.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "anatole-master"
+theme = "hugo-theme-hello-friend-ng-master"
 
 [build]
 publish = "public"
