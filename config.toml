@@ -35,6 +35,11 @@ HUGO_VERSION = "0.74.3"
 HUGO_ENABLEGITINFO = "true"
 
 [params]
+ [[menu.main]]
+identifier = "blog"
+name       = "Blog"
+url        = "/posts"
+    
 [[menu.main]]
 name = "Introduction"
 weight = 1
