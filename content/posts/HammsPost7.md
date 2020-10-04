@@ -1,11 +1,11 @@
 ---
-title: "Module 6 Learning Report"
-date: 2020-09-27T00:00:00-04:00
+title: "Module 7 Learning Report"
+date: 2020-10-4T00:00:00-04:00
 draft: false
 ---
 
 #### I can identify and define key concepts in (web) content management.
-- I feel confident in my ability to establish and define web content management. This week, my team's blog went live on WordPress. The steps we followed to create this content were by assigning roles, setting goal dates, allowing appropriate communcation and offering feedback. Our WordPress post is
+- I feel confident in my ability to establish and define web content management. This is the second week my team and I have published a blog post onto WordPress. The steps we followed to create this content were by assigning roles during our team call, setting goal dates, allowing appropriate communcation and offering feedback. Our WordPress post is
 a perfect example of expressing my knowledge of web content management because we practiced the roles of a writer, editor, administrator and developer. Each role was assigned to a team member so that we can become familiar with the
 tasks involved. We plan to switch roles each week so that everyone feels distinguished in managing web content.
 
