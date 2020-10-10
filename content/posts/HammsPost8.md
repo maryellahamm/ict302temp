@@ -14,7 +14,7 @@ draft: false
 - Each week, my team discusses in class, virtually or in-person, how we are going to complete our assignments that week. We assign roles for the blog post and then look at upcoming assignments. This week plan to complete the annotated definitions assignment so that we will not have too many things pile up at once. If needed, we will meet virtually one other time during the week just to see how everyone is doing on their tasks. We keep daily communcation in our Microsoft Teams channel.
 
 #### I can identify and employ technologies related to content management.
-- Technologies I have begin to use to enhan
+- Technologies I have began to use to enhance my skills with creating content is the source w3schools.com. My team showed me this website recently where you can learn HTML through examples. HTML is a key to enhancing your content for inserting media, editing text and adjusting the layout. This is a skill I need to work on to create more engaging content posts.
 
 #### I can find and use resources for self-directed learning.
 - My team really wanted to focus our walkthrough tutorial on HTML elements. This is something I am not as familiar with and that I will need to spend more time learning before I write a page focusing on these elements. My team suggested w3schools.com as a resource to learn more HTML and become more familiar through examples.
