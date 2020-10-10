@@ -5,7 +5,7 @@ draft: false
 ---
 
 #### I can identify and define key concepts in (web) content management.
-- I 
+- At this point in the semester, I feel distinguished in my ability to identify concepts of content management. This week, our group worked on our annotated definitions assignments where we selected to concepts we feel the most strongly about defining. We chose to define content modeling and delievery formats. 
 
 #### I can describe and compare content management systems.
 - The new weekly post
@@ -17,4 +17,4 @@ draft: false
 - Technologies I have begin to use to enhan
 
 #### I can find and use resources for self-directed learning.
-- I have really enjoyed getting to learn Markdown elements 
+- My team really wanted to focus our walkthrough tutorial on HTML elements. This is something I am not as familiar with and that I will need to spend more time learning before I write a page focusing on these elements. f
