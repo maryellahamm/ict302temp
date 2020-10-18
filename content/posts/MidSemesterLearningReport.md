@@ -3,7 +3,7 @@ title: "Mid-Semester Learning Report"
 date: 2020-10-18T00:00:00-04:00
 draft: false
 ---
- #### I can identify and define key concepts in (web) content management. 
+ <h3> I can identify and define key concepts in (web) content management. </h3>
 
 - At this point in the semester, my team and I feel distinguished in our ability to identify concepts of content management. I began the semester not knowing what CMS stood for and now I am able to identify what qualifies a CMS. For the group assignments, we have referred back to a text from Module 3 where Barker compares features against each other. Our group has divided up our mid-semester assignments by concepts we each feel the most comfortable with to define. We chose to define content modeling and delivery formats for our annotated definitions assignment. For these definitions, I feel comfortable from what I have read from Barker about being able to define and demonstrate these concepts. For our walkthroughs, we wanted to provide a tutorial of how to set up a server on WordPress and an external site. Our group feels confident about defining these key concepts in a CMS. We decided as a group which concepts we felt were the most important and that we could provide the most detail about. As we went with content modeling and delivery formats, my group read the content that I had written for the two definitions and offered any feedback they could think of. Before publishing, a group member proofread my post for edits then we submitted.
 
