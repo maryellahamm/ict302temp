@@ -1,7 +1,7 @@
----
-title: "Sample Post"
-date: 2020-08-12T00:00:00-04:00
-draft: false
----
 
-This is a sample post. You can copy the text of this post to create new posts for your weekly learning reports. Pay close attention to the format of the text in this file—changing it too drastically will cause the report to not show up.
+draft = false
+date = 2019-01-15T11:37:59-05:00
+title = "Hello World! This is a test of a Siri Shortcut for posting to my new Hugo blog from iOS."
+slug = "2019-01-15-Hello-World!"
+tags = []
+categories = ["micro"]
