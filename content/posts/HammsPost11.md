@@ -1,6 +1,6 @@
 ---
 title: "Module 11 Learning Report"
-date: 2020-11-1T00:00:00-04:00
+date: 2020-10-31T00:00:00-04:00
 draft: false
 ---
 
